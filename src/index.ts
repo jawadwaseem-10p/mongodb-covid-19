@@ -9,7 +9,7 @@ const connectionOptions =  {
     authSource: 'admin',
     dbName: 'covid-19',
     user: 'admin',
-    pass: 'mitreadmin123456',
+    pass: 'yourpassword',
     
 }
 const port = Number(process.env.PORT || 3000);
