@@ -33,9 +33,10 @@ npm i
 npm run build
 npm run start:dev
 ```
-
-
-
+## postman collection
+```sh
+https://www.getpostman.com/collections/2741fa47e58f2c2e08c0
+```
 
 
 
